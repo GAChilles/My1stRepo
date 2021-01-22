@@ -9,6 +9,9 @@ Test2
 Feature A:
 1)step 1
 2)step 1.2
+3)step 2
+4)step 3
+
 
 Feature B:
 1)step 1
