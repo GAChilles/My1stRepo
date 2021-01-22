@@ -8,6 +8,7 @@ Test2
 
 Feature A:
 1)step 1
+2)step 1.2
 
 Feature B:
 1)step 1
