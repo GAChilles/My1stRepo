@@ -5,5 +5,3 @@ Trying out
 Test1
 
 Test2
-
-To Be Reverted
